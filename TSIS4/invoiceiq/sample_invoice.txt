@@ -1,0 +1,34 @@
+INVOICE
+
+From:
+Brightwave Solutions Ltd.
+14 Commerce Park, London, EC2A 4BX
+VAT Number: GB123456789
+
+To:
+Northfield Retail Group
+88 Market Street, Manchester, M1 1PW
+
+Invoice Number: BWS-2024-00892
+Invoice Date: 15 March 2024
+Due Date: 14 April 2024
+Payment Terms: Net 30
+
+Description of Services:
+- Website redesign and development (Q1 2024): £4,500.00
+- SEO audit and optimization package: £750.00
+- Monthly maintenance retainer (March): £350.00
+
+Subtotal: £5,600.00
+VAT (20%): £1,120.00
+TOTAL DUE: £6,720.00
+
+Please make payment to:
+Bank: Barclays Business
+Account Name: Brightwave Solutions Ltd.
+Sort Code: 20-45-67
+Account Number: 87654321
+Reference: BWS-2024-00892
+
+Late payments are subject to statutory interest under the Late Payment of Commercial Debts Act.
+Thank you for your business.

@@ -1,0 +1,10 @@
+2026-04-09T10:26:50 | INFO     | app | Sample invoice loaded by user.
+2026-04-09T10:26:52 | INFO     | invoice_processor | Starting invoice extraction. Input length: 796 chars
+2026-04-09T10:26:52 | ERROR    | invoice_processor | GEMINI_API_KEY not found in environment variables.
+2026-04-09T10:27:17 | INFO     | app | Sample invoice loaded by user.
+2026-04-09T10:27:19 | INFO     | invoice_processor | Starting invoice extraction. Input length: 796 chars
+2026-04-09T10:27:19 | INFO     | invoice_processor | Gemini model initialized: gemini-2.5-flash
+2026-04-09T10:27:19 | DEBUG    | invoice_processor | Prompt constructed. Length: 2498 chars
+2026-04-09T10:27:23 | INFO     | invoice_processor | Gemini API response received in 4632 ms
+2026-04-09T10:27:23 | INFO     | invoice_processor | Extraction complete | Fields extracted: 10/10 | Warnings: 0 | Tokens: {'prompt_tokens': 749, 'completion_tokens': 201, 'total_tokens': 1415}
+2026-04-09T10:27:23 | INFO     | app | UI extraction complete. Session total tokens: 1415
